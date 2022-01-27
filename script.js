@@ -12,4 +12,5 @@ function myWrite()
 function printPage()
 {
     window.print();
-}
+} 
+// print method ends here
