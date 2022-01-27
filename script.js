@@ -12,5 +12,6 @@ function myWrite()
 function printPage()
 {
     window.print();
+    console.log("User taking print of current page! Audit purpose only !");
 } 
 // print method ends here

@@ -9,4 +9,6 @@ lets go..
        - document.write()
        - window.alert() / alert()
        - widow.print() --> prints current site elements to printer
+       - console.log() --> for debugging purpose , can print on console
+
 
