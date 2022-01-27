@@ -62,5 +62,28 @@ lets go..
         Y - yield
 
         Z - N/A
-* marked are introduced in ES5,6       
+* marked are introduced in ES5,6
 
+#### Comments
+        // -> Single line Comment
+        /*
+        ...
+        ...
+        */ -> Multi line Comment
+
+#### Variables & Identifies
+        -> Variable : Containers for storing data values
+        -> Identifies : Unique name to identify variables
+
+        var x = 5; // Literals
+        var y;
+        y=10; // variables
+
+        #### 4 ways to declare variables
+                i) var x;
+                ii) let x=5;
+                iii) const y = '';
+                iv)  Doing Noting : x=5;
+
+        var -> canbe redeclared
+        let -> cannot be redeclared        
